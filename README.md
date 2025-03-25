@@ -56,10 +56,30 @@
   <a target="_blank" href="https://reactnative.dev/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" />
   </a>
-
+  
   <!-- Python -->
   <a target="_blank" href="https://www.python.org/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+
+  <!-- TensorFlow -->
+  <a target="_blank" href="https://www.tensorflow.org/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+
+  <!-- NumPy -->
+  <a target="_blank" href="https://numpy.org/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+
+  <!-- Pandas -->
+  <a target="_blank" href="https://pandas.pydata.org/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+
+  <!-- Matplotlib -->
+  <a target="_blank" href="https://matplotlib.org/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   </a>
 
   <!-- MongoDB -->
